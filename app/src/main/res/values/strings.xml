@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AreaAndPerimeterApp</string>
+    <string name="header_triangle">Введите стороны треугольника:</string>
+    <string name="first_side_triangle">1-я сторона</string>
+    <string name="second_side_triangle">2-я сторона</string>
+    <string name="third_side_triangle">3-я сторона</string>
+    <string name="header_rectangle">Введите стороны прямоугольника:</string>
+    <string name="width_rectangle">Ширина</string>
+    <string name="height_rectangle">Высота</string>
+    <string name="btn_submit">Расчитать</string>
+</resources>
